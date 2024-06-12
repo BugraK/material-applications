@@ -1,4 +1,3 @@
 docker-compose.override.yml
 .secrets
 nginx.conf
-.DS_Store
